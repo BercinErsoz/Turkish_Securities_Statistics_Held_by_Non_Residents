@@ -43,8 +43,8 @@ for the price and exchange rate effects.
 
 
 ## Resources
-[Open Data]([https://evds2.tcmb.gov.tr/index.php?/evds/DataGroupLink/5/bie_mknethar/en])
+[Open Data](https://evds2.tcmb.gov.tr/index.php?/evds/DataGroupLink/5/bie_mknethar/en)
 
 
 ## Data Files
-[CBRT]([https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics/Monetary+and+Financial+Statistics/Securities+Statistics/])
+[CBRT](https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics/Monetary+and+Financial+Statistics/Securities+Statistics/)
