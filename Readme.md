@@ -1,7 +1,7 @@
 # Create a Tableau Story for Turkish Securities Statistics
 
 
-[Final: Tableau Story from Turkish Equity & Debt Securities, held by Non- Residens](https://public.tableau.com/views/TurkishSecurityStatisticsheldbyNon-Residents/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Final: Tableau Story from Turkish Equity & Debt Securities, held by Non- Residens](https://public.tableau.com/views/TurkishSecurityStatisticsheldbyNon-Residents/Main?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Summary
 Securities Statistics comprise of data on government debt securities issued by Ministry of Treasury and Finance, corporate bonds and shares held by non-residents. The data includes information on holdings of resident and non-resident sectors, currency denomination, maturity breakdown and redemption date.
